@@ -1,0 +1,14 @@
+c:\users\максим\documents\visual studio 2017\Projects\APO_Server\APO_Server\obj\Debug\APO_Server.csprojResolveAssemblyReference.cache
+c:\users\максим\documents\visual studio 2017\Projects\APO_Server\APO_Server\bin\Debug\APO_Server.exe.config
+c:\users\максим\documents\visual studio 2017\Projects\APO_Server\APO_Server\bin\Debug\APO_Server.exe
+c:\users\максим\documents\visual studio 2017\Projects\APO_Server\APO_Server\bin\Debug\APO_Server.pdb
+c:\users\максим\documents\visual studio 2017\Projects\APO_Server\APO_Server\bin\Debug\EntityFramework.dll
+c:\users\максим\documents\visual studio 2017\Projects\APO_Server\APO_Server\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\максим\documents\visual studio 2017\Projects\APO_Server\APO_Server\bin\Debug\System.Data.SQLite.dll
+c:\users\максим\documents\visual studio 2017\Projects\APO_Server\APO_Server\bin\Debug\System.Data.SQLite.EF6.dll
+c:\users\максим\documents\visual studio 2017\Projects\APO_Server\APO_Server\bin\Debug\System.Data.SQLite.Linq.dll
+c:\users\максим\documents\visual studio 2017\Projects\APO_Server\APO_Server\bin\Debug\EntityFramework.xml
+c:\users\максим\documents\visual studio 2017\Projects\APO_Server\APO_Server\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\максим\documents\visual studio 2017\Projects\APO_Server\APO_Server\bin\Debug\System.Data.SQLite.xml
+c:\users\максим\documents\visual studio 2017\Projects\APO_Server\APO_Server\obj\Debug\APO_Server.exe
+c:\users\максим\documents\visual studio 2017\Projects\APO_Server\APO_Server\obj\Debug\APO_Server.pdb
